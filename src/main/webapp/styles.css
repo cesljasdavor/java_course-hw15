@@ -1,0 +1,49 @@
+@IMPORT url("https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css");
+@IMPORT url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+.main{
+	background-image: url('knjiga.jpg');
+	background-size: cover;
+	height: 600px;
+}
+
+.user {
+	background-image: url('http://www.wallpapereast.com/static/images/78217-39682.jpg');
+	background-size: cover;
+	height: 250px;
+}
+
+.centered-container {
+	display: table;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.card-width{
+	width: 50%;
+}
+
+body {
+	background-color: #292b2c!important; 
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+ul.no-decorations {
+  list-style-type: none;
+}
+
+.register-margin {
+  margin: 5%;
+  padding: 5%;
+}
+
+.labels-text {
+	color: #0275d8;
+}
+
+hr {
+	background-color: #0275d8;
+}
